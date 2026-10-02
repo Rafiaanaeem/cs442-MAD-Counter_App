@@ -5,7 +5,7 @@
 
 ## Running App
 
-![Running App](Screenshot%202026-09-11%20152151.png)
+![Running App](Lab-Task1/Screenshot%202026-09-11%20152151.png)
 
 ## What I Learned About `setState()`
 
